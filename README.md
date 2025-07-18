@@ -10,7 +10,6 @@ Time spent: **8** hours
 
 The following **required** functionality is completed:
 
-<!-- 👉🏿👉🏿👉🏿 Make sure to check off completed functionality below -->
 - [x] **A logical component structure in React is used to create the frontend of the app**
 - [x] **At least five content creators are displayed on the homepage of the app**
 - [x] **Each content creator item includes their name, a link to their channel/page, and a short description of their content**
@@ -31,7 +30,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![creatorverse](https://github.com/user-attachments/assets/bea3ef87-fc26-46a4-93ed-e763e578a562)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [Veed](https://www.veed.io/convert/mp4-to-gif)
